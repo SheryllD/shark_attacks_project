@@ -30,7 +30,9 @@ Project done by:
 - Problems & Technical Challenges 
 - How we overcame the challenges 
 
-# Presentation 
+# Deliverables  
 - Flowchart: 
 
 - Presentation link: 
+
+- Google Document: 
