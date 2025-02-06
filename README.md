@@ -1,5 +1,12 @@
 # About the project 
 
+
+Project done by: 
+- Sheryll Dumapal 
+- Jud 
+- 
+- 
+
 ## Business Case 
 
 ## Problems  
@@ -24,7 +31,6 @@
 - How we overcame the challenges 
 
 # Presentation 
-- Flowchart 
-- insert here -
+- Flowchart: 
 
 - Presentation link: 
