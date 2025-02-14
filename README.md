@@ -3,7 +3,6 @@
 
 Project done by: 
 - Sheryll Dumapal 
-- Jud 
 
 ## Business Case 
 
