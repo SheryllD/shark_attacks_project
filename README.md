@@ -47,8 +47,4 @@ Shark attacks not only impact individuals but also have broader economic and env
 - Timeframe Selection: Filtering relevant time periods required careful consideration to balance data accuracy and representativeness.
 
 # Deliverables  
-- Flowchart: 
-
-- Presentation link: 
-
-- Google Document: 
+- Presentation link: https://docs.google.com/presentation/d/1l3DNc6utO-Tkynjjr5XsAR8GYVs2QHLGYXhtc02mE8I/edit#slide=id.g2af7b6d980b_0_24
