@@ -6,6 +6,17 @@ Project done by:
 ## Business Case 
 Shark attacks pose a serious risk to surfers and swimmers, impacting tourism, local economies, and public safety. My project focuses on developing data-driven insights and potential solutions to enhance shark awareness and mitigation strategies.
 
+#### SharkTrack – AI-Powered Shark Detection for Safer Waters
+Shark attacks pose a significant threat to surfers and swimmers, affecting tourism, local economies, and public safety. SharkTrack is an AI-powered smart detection app designed to mitigate these risks by providing real-time shark tracking, predictive analytics, and early warning systems.
+
+By leveraging data-driven insights, SharkTrack aims to:
+- Enhance ocean safety through AI-based shark detection and alerts.
+- Support surfers, swimmers, and lifeguards with real-time risk assessments.
+- Boost tourism confidence by offering proactive mitigation strategies.
+- Assist local governments in managing shark-related incidents with advanced analytics.
+
+This solution bridges the gap between public safety and ecological conservation, ensuring that both humans and marine life can coexist more safely in shared waters.
+
 ## Problems  
 - Lack of real-time shark detection solutions.
 - Inconsistent and incomplete historical data.
@@ -68,7 +79,7 @@ Daytona Beach, Ponce Inlet, and Melbourne Beach are also high-risk locations.
 Conclusion: 
 Certain regions, particularly Florida (USA), New South Wales (Australia), and South Africa, show a higher concentration of shark attacks. This supports the hypothesis that environmental factors (such as warm coastal waters, high marine biodiversity, and popular surf spots) contribute to increased shark activity. Additionally, improved reporting and human presence in the water influence the numbers.
 
-## Next Steps and Implementation Plan 
+## Next Steps and Implementation Plan for in the future 
 - Enhance data collection and classification accuracy.
 - Develop a real-time shark monitoring system.
 - Collaborate with stakeholders to implement safety measures.
@@ -94,6 +105,35 @@ This structured methodology ensures that conclusions are drawn based on actual d
 - Data cleaning and preprocessing functions.
 - Visualization functions for attack trends.
 - Statistical analysis for hypothesis testing.
+
+Data Cleaning & Preprocessing:
+- df["Species_Types"] = df["Species_Types"].str.strip() → Ensures species names are correctly formatted by removing extra spaces.
+- df.groupby(["Species_Types", "Country"]).count() → Groups the dataset to count shark attack occurrences by species and country.
+
+Shark Species Distribution Analysis:
+- df["Species_Types"].value_counts() → Identifies the most common shark species involved in attacks.
+- Custom Function count_shark_species(df) → Uses string matching (str.contains()) to count the presence of different shark species.
+
+Geographical Analysis of Shark Attacks:
+- df.groupby("Country")["Country"].count().sort_values(ascending=False).head(10) → Determines the top 10 countries with the highest shark attacks.
+- df[df["Country"] == "United States"] → Filters data to focus on specific regions (USA, Australia, etc.) for location-based insights.
+
+Time-Based Analysis:
+- df.groupby("Decade")["Decade"].count() → Aggregates attacks by decade to detect long-term trends and eliminate yearly fluctuations.
+- df["Time"].value_counts() → Categorises shark attacks by time of day (Morning, Midday, Afternoon, Dusk, etc.).
+
+Activity-Based Analysis:
+- df["Cleaned_Activity"].value_counts() → Determines which water activities (e.g., Surfing, Swimming, Spearfishing) are most associated with shark attacks.
+
+Visualization & Data Representation:
+- plt.bar() → Used for bar charts to compare attack counts across species, regions, and timeframes.
+- plt.xticks(rotation=60, ha="right") → Adjusts x-axis labels for better readability in species 
+distribution plots.
+- plt.yscale("log") → Applies a logarithmic scale to improve data visibility when dealing with large attack count differences.
+
+Loading & Displaying Saved Images and Tables:
+- Image.open("images/AttacksByAge.png") → Loads visualizations for further analysis.
+- pd.read_csv("shark-attack/shark_species_counts.csv") → Loads previously saved shark species distribution data for reuse in different analyses.
 
 # Problems and Technical Challenges 
 - Data Issues: Missing and inconsistent data made it challenging to establish patterns. I resolved this by normalizing and filling gaps using statistical methods.
