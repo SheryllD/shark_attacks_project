@@ -32,32 +32,21 @@ Conclusion: Surfing has the highest recorded shark encounters, supporting the hy
 
 ### Hypothesis 2: Attacks are more frequent in the afternoon due to increased human activity.
 
-Afternoon: 659 cases – highest attack frequency.
-
-Midday: 591 cases – second highest.
-
-Morning: 391 cases.
-
-Dusk: 277 cases.
-
-Dawn: 117 cases.
-
-Night: 90 cases.
-
-Unknown time: 1,453 cases (highlighting reporting gaps).
-
+- Afternoon: 659 cases – highest attack frequency.
+- Midday: 591 cases – second highest.
+- Morning: 391 cases.
+- Dusk: 277 cases.
+- Dawn: 117 cases.
+- Night: 90 cases.
+- Unknown time: 1,453 cases (highlighting reporting gaps).
 Conclusion: The hypothesis is supported. Shark attacks peak in the afternoon and midday, aligning with the periods of highest human water activity. This pattern suggests that the increased presence of people in the ocean during these hours contributes to the likelihood of shark encounters.
 
 ### Hypothesis 3: Some regions have a higher concentration of attacks due to environmental conditions.
 
-Countries with the highest attacks:
-
-United States: 1,683 cases (highest globally).
-
-Australia: 608 cases.
-
-South Africa: 303 cases.
-
+- Countries with the highest attacks:
+- United States: 1,683 cases (highest globally).
+- Australia: 608 cases.
+- South Africa: 303 cases.
 Other notable locations:  
 Brazil (97), Bahamas (97), New Zealand (61), Reunion (55), New Caledonia (53), Papua New Guinea (49), Mexico (48).
 
@@ -66,13 +55,11 @@ USA-specific data:
 - Hawaii: 226 cases.
 - California: 183 cases.
 
-
 Australia-specific data:
 - New South Wales: 200 cases.
 - Western Australia: 140 cases.
 
 High-risk locations:
-
 New Smyrna Beach, Florida: 182 cases (highest globally, known as "Shark Bite Capital of the World").
 Daytona Beach, Ponce Inlet, and Melbourne Beach are also high-risk locations.
 
@@ -108,9 +95,7 @@ This structured methodology ensures that conclusions are drawn based on actual d
 
 # Problems and Technical Challenges 
 - Data Issues: Missing and inconsistent data made it challenging to establish patterns. I resolved this by normalizing and filling gaps using statistical methods.
-
 - Complexity of Shark Species Classification: Many attack records lacked clear species identification, which affected accuracy. I mitigated this by categorizing them based on available descriptions.
-
 - Timeframe Selection: Filtering relevant time periods required careful consideration to balance data accuracy and representativeness.
 
 # Deliverables  
