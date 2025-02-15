@@ -22,7 +22,6 @@ Shark attacks pose a serious risk to surfers and swimmers, impacting tourism, lo
 - Hypothesis 3: Some regions have a higher concentration of attacks due to environmental conditions.
 
 ### Hypothesis 1: Certain activities, such as surfing, increase the likelihood of shark encounters.
-Analysis:
 
 Surfing accounts for 1,150 shark attack cases, the highest among all recorded activities.
 Swimming is the second most affected activity with 631 incidents.
@@ -32,15 +31,21 @@ Lower-risk activities include Boogie Boarding (53), Windsurfing (22), and Kayaki
 Conclusion: Surfing has the highest recorded shark encounters, supporting the hypothesis that it increases the likelihood of an attack. This is likely due to surfers spending extended periods in the water, making movements that could attract sharks, and being present in coastal areas where sharks hunt.
 
 ### Hypothesis 2: Attacks are more frequent in the afternoon due to increased human activity.
-Analysis:
 
 Afternoon: 659 cases – highest attack frequency.
+
 Midday: 591 cases – second highest.
+
 Morning: 391 cases.
+
 Dusk: 277 cases.
+
 Dawn: 117 cases.
+
 Night: 90 cases.
+
 Unknown time: 1,453 cases (highlighting reporting gaps).
+
 Conclusion: The hypothesis is supported. Shark attacks peak in the afternoon and midday, aligning with the periods of highest human water activity. This pattern suggests that the increased presence of people in the ocean during these hours contributes to the likelihood of shark encounters.
 
 ### Hypothesis 3: Some regions have a higher concentration of attacks due to environmental conditions.
