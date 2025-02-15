@@ -49,23 +49,28 @@ Unknown time: 1,453 cases (highlighting reporting gaps).
 Conclusion: The hypothesis is supported. Shark attacks peak in the afternoon and midday, aligning with the periods of highest human water activity. This pattern suggests that the increased presence of people in the ocean during these hours contributes to the likelihood of shark encounters.
 
 ### Hypothesis 3: Some regions have a higher concentration of attacks due to environmental conditions.
-Analysis:
 
 Countries with the highest attacks:
 
 United States: 1,683 cases (highest globally).
+
 Australia: 608 cases.
+
 South Africa: 303 cases.
-Other notable locations: Brazil (97), Bahamas (97), New Zealand (61), Reunion (55), New Caledonia (53), Papua New Guinea (49), Mexico (48).
+
+Other notable locations:  
+Brazil (97), Bahamas (97), New Zealand (61), Reunion (55), New Caledonia (53), Papua New Guinea (49), Mexico (48).
+
 USA-specific data:
+- Florida: 908 cases (highest within the USA).
+- Hawaii: 226 cases.
+- California: 183 cases.
 
-Florida: 908 cases (highest within the USA).
-Hawaii: 226 cases.
-California: 183 cases.
+
 Australia-specific data:
+- New South Wales: 200 cases.
+- Western Australia: 140 cases.
 
-New South Wales: 200 cases.
-Western Australia: 140 cases.
 High-risk locations:
 
 New Smyrna Beach, Florida: 182 cases (highest globally, known as "Shark Bite Capital of the World").
