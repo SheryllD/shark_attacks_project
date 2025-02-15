@@ -28,6 +28,7 @@ Swimming is the second most affected activity with 631 incidents.
 Spearfishing follows with 307 cases.
 Other high-risk activities include Wading (145), Diving (132), and Snorkeling (126).
 Lower-risk activities include Boogie Boarding (53), Windsurfing (22), and Kayaking (10).
+
 Conclusion: Surfing has the highest recorded shark encounters, supporting the hypothesis that it increases the likelihood of an attack. This is likely due to surfers spending extended periods in the water, making movements that could attract sharks, and being present in coastal areas where sharks hunt.
 
 ### Hypothesis 2: Attacks are more frequent in the afternoon due to increased human activity.
@@ -39,6 +40,7 @@ Conclusion: Surfing has the highest recorded shark encounters, supporting the hy
 - Dawn: 117 cases.
 - Night: 90 cases.
 - Unknown time: 1,453 cases (highlighting reporting gaps).
+
 Conclusion: The hypothesis is supported. Shark attacks peak in the afternoon and midday, aligning with the periods of highest human water activity. This pattern suggests that the increased presence of people in the ocean during these hours contributes to the likelihood of shark encounters.
 
 ### Hypothesis 3: Some regions have a higher concentration of attacks due to environmental conditions.
@@ -63,7 +65,7 @@ High-risk locations:
 New Smyrna Beach, Florida: 182 cases (highest globally, known as "Shark Bite Capital of the World").
 Daytona Beach, Ponce Inlet, and Melbourne Beach are also high-risk locations.
 
-## Conclusion: 
+Conclusion: 
 Certain regions, particularly Florida (USA), New South Wales (Australia), and South Africa, show a higher concentration of shark attacks. This supports the hypothesis that environmental factors (such as warm coastal waters, high marine biodiversity, and popular surf spots) contribute to increased shark activity. Additionally, improved reporting and human presence in the water influence the numbers.
 
 ## Next Steps and Implementation Plan 
