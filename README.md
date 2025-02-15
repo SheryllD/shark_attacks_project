@@ -22,7 +22,10 @@ This solution bridges the gap between public safety and ecological conservation,
 - Inconsistent and incomplete historical data.
 - Difficulty in predicting attack-prone locations and times.
 
-## Oppertunity 
+## Business Oppertunity 
+The opportunity for SharkTrack lies in its ability to enhance surfer safety through AI-powered shark detection, addressing a critical gap in ocean risk management while creating commercial value for surfers, tourism industries, surf shops, and governmental agencies.
+
+Furthermore:
 - Use data analytics to identify attack patterns.
 - Develop AI-powered shark tracking applications.
 - Provide governments and businesses with actionable insights to improve public safety.
