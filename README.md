@@ -77,10 +77,19 @@ Certain regions, particularly Florida (USA), New South Wales (Australia), and So
 ## Why This Matters and the Big Picture Vision 
 Shark attacks not only impact individuals but also have broader economic and environmental consequences. By leveraging data-driven insights, I aim to create safer ocean environments while promoting coexistence with marine life.
 
-# Method 
-- Cleaned inconsistent and incomplete records.
-- Standardized time formats and activity categories.
-- Filtered data to focus on relevant timeframes.
+## Methodology 
+To ensure a structured and data-driven approach, the following methodology was applied to test each hypothesis:
+
+- Dataset Selection: Used the cleaned dataset (cleaned_data.pkl) containing shark attack records. Focused on data from the 19th to 21st centuries to ensure reliability.
+- Data Importing & Preprocessing: Loaded the dataset using pandas, checked for missing values, and conducted exploratory data analysis (EDA) to understand patterns.
+- Activity Classification & Analysis: Extracted and analysed the "Cleaned_Activity" column, counting the number of shark attacks per activity type. Surfing, swimming, and spearfishing were compared to determine high-risk activities.
+- Time-Based Analysis: Extracted the "Time" column and grouped attacks into different time periods (Morning, Midday, Afternoon, Dusk, Dawn, Night). Counted occurrences to identify peak attack times.
+- Geographical Distribution Analysis: Used the "Country" and "State" columns to count attacks by location. Identified the top 10 countries and high-risk states (USA, Australia) to determine regional concentration.
+- High-Risk Location Identification: Analysed specific locations with high shark activity (e.g., New Smyrna Beach, Florida), considering environmental factors such as warm coastal waters and high marine biodiversity.
+- Trend Analysis & Comparison: Used matplotlib and seaborn for visualisation, comparing attack trends across activities, time periods, and geographical locations to validate each hypothesis.
+- Missing Data Handling: Considered 1,453 cases with unknown time and ensured valid comparisons in the analysis.
+- Visual Validation: Utilised pre-generated charts and tables to support findings and confirm statistical patterns.
+This structured methodology ensures that conclusions are drawn based on actual data trends rather than assumptions.
 
 # Functions 
 - Data cleaning and preprocessing functions.
