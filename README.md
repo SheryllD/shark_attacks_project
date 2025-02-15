@@ -6,7 +6,7 @@ Project done by:
 ## Business Case 
 Shark attacks pose a serious risk to surfers and swimmers, impacting tourism, local economies, and public safety. My project focuses on developing data-driven insights and potential solutions to enhance shark awareness and mitigation strategies.
 
-#### SharkTrack – AI-Powered Shark Detection for Safer Waters
+#### SharkTrack, AI-Powered Shark Detection for Safer Waters
 Shark attacks pose a significant threat to surfers and swimmers, affecting tourism, local economies, and public safety. SharkTrack is an AI-powered smart detection app designed to mitigate these risks by providing real-time shark tracking, predictive analytics, and early warning systems.
 
 By leveraging data-driven insights, SharkTrack aims to:
