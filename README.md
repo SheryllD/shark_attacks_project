@@ -139,7 +139,7 @@ Loading & Displaying Saved Images and Tables:
 - pd.read_csv("shark-attack/shark_species_counts.csv") → Loads previously saved shark species distribution data for reuse in different analyses.
 
 # Problems and Technical Challenges 
-- Data Issues: Missing and inconsistent data made it challenging to establish patterns. I resolved this by normalizing and filling gaps using statistical methods.
+- Data Issues: Missing and inconsistent data made it challenging to establish patterns. I resolved this by cleaning, reviewing, formatting data in the correct formats, normalizing, filling gaps, using Regex to find patterns and using statistical methods.
 - Complexity of Shark Species Classification: Many attack records lacked clear species identification, which affected accuracy. I mitigated this by categorizing them based on available descriptions.
 - Timeframe Selection: Filtering relevant time periods required careful consideration to balance data accuracy and representativeness.
 
