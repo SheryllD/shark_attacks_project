@@ -49,7 +49,7 @@ Conclusion: The hypothesis is supported. Shark attacks peak in the afternoon and
 - United States: 1,683 cases (highest globally).
 - Australia: 608 cases.
 - South Africa: 303 cases.
-Other notable locations:  
+- Other notable locations:  
 Brazil (97), Bahamas (97), New Zealand (61), Reunion (55), New Caledonia (53), Papua New Guinea (49), Mexico (48).
 
 USA-specific data:
